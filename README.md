@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @TrizahNabwire
-- 👀 I’m interested in Android development
-- 🌱 I’m currently learning kotlin
-- 💞️ I’m looking to collaborate on how to level up my skills
+- 👀 I’m interested in Android development and Web development
 - 📫 How to reach me Twitter: @NabwireTrizah
 
 <!---
