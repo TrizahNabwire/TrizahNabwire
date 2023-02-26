@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @TrizahNabwire
-- 👀 I’m interested in Android development and Web development
-- 📫 How to reach me Twitter: @NabwireTrizah
+- Hi👋, I’m Trizah Nabwire, a UIUX Designer and Wordpress developer.I conduct User research, do UX Writing, UI Design and UX Design. Am a certified Wordpress developer building sites from blogs, ecommerce to personal projects.
 
-<!---
-TrizahNabwire/TrizahNabwire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
