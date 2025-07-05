@@ -2,11 +2,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ======================================================================================================================================
 
 UI/UX Designer || 
-Frontend Engineer ||
-WordPress Developer 
+React ||
+React Native 
 --------------------------------------------------------
 
-* 🌍  I'm based in Kenya
 * ✉️  You can contact me at [trizahnabwire20@gmail.com](mailto:trizahnabwire20@gmail.com)
 
 <a href="https://www.github.com/TrizahNabwire" target="_blank" rel="noreferrer"><img
